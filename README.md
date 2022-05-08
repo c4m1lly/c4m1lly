@@ -13,3 +13,4 @@
   <a href="https://www.linkedin.com/in/camillydasilvacunhaa8a78a1a8/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 </div>
+  <img src="https://i.pinimg.com/736x/c6/dd/43/c6dd43d4562a8e1a7c51ba3bd597eedc--funny-computer-best-animation.jpg" width:30px;>
