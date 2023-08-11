@@ -1,7 +1,7 @@
 
 # Olá, eu sou a Camilly! 👩🏽‍💻
 <div align="center">
-*Estudante de Engenharia de software e análise e  Desenvolvimento de Sistemas 🚀
+*Estudante de Engenharia de software 🚀
 
   <a href="https://github.com/c4m1lly">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=c4m1lly&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
